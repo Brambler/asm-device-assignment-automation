@@ -124,4 +124,4 @@ In its first six months in production:
 
 **Jordan Braham**, Endpoint Management, West Virginia University
 
-Questions or want to compare notes? Open an issue or reach out.
+Questions or want to compare notes? Reach out here [brambler@brambler.tools](mailto:brambler@brambler.tools) or [LinkedIn](https://www.linkedin.com/in/jordan-braham/)
